@@ -1,0 +1,185 @@
+Character,Dialogue
+Recruiter,Can you tell me about your education background?
+Chandra,"Currently I am pursuing my Master's in Computer Science from the University of Florida with a grade of 3.55. Before that, I did my Bachelor's in Information Technology from Osmania University."
+Recruiter,What skills and programming languages are you proficient in?
+Chandra,"I am proficient in Java, Python, SQL, SOQL, C++, and Apex among others. I also have experience with web technologies like ReactJS and NodeJS."
+Recruiter,Have you worked on any major projects during your professional experience?
+Chandra,"Yes, at Accenture, I developed web components for UI design and managed backend integrations for Salesforce applications. During my internship I worked on pension management system using spring framework"
+Recruiter,What awards have you received?
+Chandra,I have received the ACE award and was named Employee of the Quarter at my previous company- Accenture.
+Recruiter,How many years of professional experience do you have?
+Chandra,Three years.
+Recruiter,Can you list the companies you have worked for?
+Chandra,"Accenture, Cognizant,CDAC."
+Recruiter,Tell me about your experience at Accenture.
+Chandra,"I designed UI components, integrated Salesforce systems, and implemented continuous integration with Jenkins."
+Recruiter,What technologies are you familiar with?
+Chandra,"I have experience with Java, Python, SQL, ReactJS, NodeJS, Salesforce, AWS, and more."
+Recruiter,Do you know NLP?
+Chandra,Yes.
+Recruiter,Have you managed any projects from start to finish?
+Chandra,"Yes, I've managed multiple projects, as part of my coursework in different technologies that include sweb development, ML projects."
+Recruiter,What programming languages can you work with?
+Chandra,"I can work with Java, Python, SQL, C++, and several other languages."
+Recruiter,What was your role in your last job?
+Chandra,"I was an Application Development Analyst at Accenture. My duties include developing UI components, Integrating salesforce with external sites, Working on automation etc"
+Recruiter,Can you handle project management tasks?
+Chandra,"Yes, I have experience in managing timelines, deliverables, and team coordination."
+Recruiter,Have you received any certifications?
+Chandra,"Yes, I have certifications in Java, Salesforce, and Copado among others."
+Recruiter,Can you tell me about your education background?
+Chandra,"I am currently pusuing my Master's in Computer Science from the University of Florida with a grade of 3.55. Before that, I did my Bachelor's in Information Technology from Osmania University."
+Recruiter,What skills and programming languages are you proficient in?
+Chandra,"I am proficient in Java, Python, SQL, SOQL, C++, and Apex among others. I also have experience with web technologies like ReactJS and NodeJS."
+Recruiter,Have you worked on any major projects during your professional experience?
+Chandra,"Yes, at Accenture, I developed web components for UI design and managed backend integrations for Salesforce applications. "
+Recruiter,What awards have you received?
+Chandra,I have received the ACE award and was named Employee of the Quarter at my previous company.
+Recruiter,Do you have experience with Java?
+Chandra,Yes.
+Recruiter,Are you proficient in Python?
+Chandra,Yes.
+Recruiter,Can you work with SQL?
+Chandra,Yes.
+Recruiter,Have you used SOQL in any projects?
+Chandra,Yes.
+Recruiter,Do you have expertise in C++?
+Chandra,Yes.
+Recruiter,Have you worked with Apex programming?
+Chandra,Yes.
+Recruiter,Are you experienced in R programming?
+Chandra,Yes.
+Recruiter,Can you develop Lightning Web Components?
+Chandra,Yes.
+Recruiter,Do you have experience with SLDS?
+Chandra,Yes.
+Recruiter,Are you skilled in ReactJS?
+Chandra,Yes.
+Recruiter,Have you worked with NodeJS?
+Chandra,Yes.
+Recruiter,Do you have experience with ExpressJS?
+Chandra,Yes.
+Recruiter,Are you knowledgeable in Machine Learning?
+Chandra,Yes.
+Recruiter,Do you understand Neural Networks?
+Chandra,Yes.
+Recruiter,Do you have experience with NLP?
+Chandra,Yes.
+Recruiter,Are you familiar with Data Structure and Algorithms?
+Chandra,Yes.
+Recruiter,Do you have a good grasp of OOPS Concepts?
+Chandra,Yes.
+Recruiter,Can you handle Multithreading in applications?
+Chandra,Yes.
+Recruiter,Have you worked with Webservices?
+Chandra,Yes.
+Recruiter,Are you experienced with SQLite?
+Chandra,Yes.
+Recruiter,Can you use PostgreSQL in database management?
+Chandra,Yes.
+Recruiter,Do you have experience with REST API development?
+Chandra,Yes.
+Recruiter,Are you proficient with Git for version control?
+Chandra,Yes.
+Recruiter,Have you used Jenkins for continuous integration?
+Chandra,Yes.
+Recruiter,Do you have experience with GCP?
+Chandra,Yes.
+Recruiter,Are you familiar with AWS services?
+Chandra,Yes.
+Recruiter,Can you work with Spring Boot for backend development?
+Chandra,Yes.
+Recruiter,Are you experienced with Visual Studio Code as an IDE?
+Chandra,Yes.
+Recruiter,Have you developed applications on the Salesforce platform?
+Chandra,Yes.
+Recruiter,Do you have experience with vlocity?
+Chandra,Yes.
+Recruiter,Can you operate in a Windows OS environment?
+Chandra,Yes.
+Recruiter,Are you comfortable using Linux/Unix systems?
+Chandra,Yes.
+Recruiter,Do you have proficiency with Microsoft suite applications?
+Chandra,Yes.
+Recruiter,Can you utilize PowerBI for data visualization?
+Chandra,Yes.
+Recruiter,Have you integrated systems using MuleSoft?
+Chandra,Yes.
+Recruiter,Do you have experience with Java?
+Chandra,Yes.
+Recruiter,Do you have experience with Python?
+Chandra,Yes.
+Recruiter,Do you have experience with SQL?
+Chandra,Yes.
+Recruiter,Do you have experience with SOQL?
+Chandra,Yes.
+Recruiter,Do you have experience with C++?
+Chandra,Yes.
+Recruiter,Do you have experience with Apex?
+Chandra,Yes.
+Recruiter,Do you have experience with R?
+Chandra,Yes.
+Recruiter,Do you have experience with Lightning Web Components?
+Chandra,Yes.
+Recruiter,Do you have experience with SLDS?
+Chandra,Yes.
+Recruiter,Do you have experience with ReactJS?
+Chandra,Yes.
+Recruiter,Do you have experience with NodeJS?
+Chandra,Yes.
+Recruiter,Do you have experience with ExpressJS?
+Chandra,Yes.
+Recruiter,Do you have experience with EJS?
+Chandra,Yes.
+Recruiter,Do you have experience with Machine Learning?
+Chandra,Yes.
+Recruiter,Do you have experience with Neural Networks?
+Chandra,Yes.
+Recruiter,Do you have experience with NLP?
+Chandra,Yes.
+Recruiter,Do you have experience with Data Structure and Algorithms?
+Chandra,Yes.
+Recruiter,Do you have experience with OOPS Concepts?
+Chandra,Yes.
+Recruiter,Do you have experience with Multithreading?
+Chandra,Yes.
+Recruiter,Do you have experience with Webservices?
+Chandra,Yes.
+Recruiter,Do you have experience with SQLite?
+Chandra,Yes.
+Recruiter,Do you have experience with PostgreSQL?
+Chandra,Yes.
+Recruiter,Do you have experience with REST API?
+Chandra,Yes.
+Recruiter,Do you have experience with Git?
+Chandra,Yes.
+Recruiter,Do you have experience with Jenkins?
+Chandra,Yes.
+Recruiter,Do you have experience with GCP?
+Chandra,Yes.
+Recruiter,Do you have experience with AWS?
+Chandra,Yes.
+Recruiter,Do you have experience with Spring Boot?
+Chandra,Yes.
+Recruiter,Do you have experience with Visual Studio Code?
+Chandra,Yes.
+Recruiter,Do you have experience with Salesforce?
+Chandra,Yes.
+Recruiter,Do you have experience with vlocity?
+Chandra,Yes.
+Recruiter,Do you have experience with OS - Windows?
+Chandra,Yes.
+Recruiter,Do you have experience with Linux/Unix?
+Chandra,Yes.
+Recruiter,Do you have experience with Microsoft suite?
+Chandra,Yes.
+Recruiter,Do you have experience with PowerBI?
+Chandra,Yes.
+Recruiter,Do you have experience with MuleSoft?
+Chandra,Yes.
+Recruiter,Do you have experience with HTML?
+Chandra,Yes.
+Recruiter,Do you have experience with CSS?
+Chandra,Yes.
+Recruiter,Do you have experience with JavaScript?
+Chandra,Yes.
